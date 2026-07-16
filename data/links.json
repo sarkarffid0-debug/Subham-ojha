@@ -1,0 +1,44 @@
+[
+  {
+    "id": "science-metals",
+    "title": "ଧାତୁ ଓ ଅଧାତୁ (Metals & Non-metals)",
+    "subject": "SCIENCE",
+    "url": "https://docs.google.com/document/d/1F0JA3xoJ_tAnDwriIEqexgKHSk2oRFf1KNWbOVkZPSw/edit?usp=drivesdk",
+    "description": "Class 10 Science - Detailed notes on Metals and Non-metals (ଧାତୁ ଓ ଅଧାତୁ) in Odia."
+  },
+  {
+    "id": "english-grammar",
+    "title": "Tenses & Active/Passive Voice",
+    "subject": "ENGLISH",
+    "url": "https://docs.google.com/document/d/1_example_english",
+    "description": "A comprehensive guide on English grammar, tense structures, and active/passive conversions."
+  },
+  {
+    "id": "math-trig",
+    "title": "Trigonometry Formula Sheet",
+    "subject": "MATH",
+    "url": "https://docs.google.com/document/d/1_example_math",
+    "description": "Handy quick-reference guide containing all essential trigonometric formulas and identity proofs."
+  },
+  {
+    "id": "hindi-vyakaran",
+    "title": "Hindi Grammar (Sangya & Sarvanam)",
+    "subject": "HINDI",
+    "url": "https://docs.google.com/document/d/1_example_hindi",
+    "description": "Important study resource covering Hindi grammar concepts and practice questions."
+  },
+  {
+    "id": "odia-sandhi",
+    "title": "Odia Grammar - Sandhi & Karaka",
+    "subject": "ODIA",
+    "url": "https://docs.google.com/document/d/1_example_odia",
+    "description": "Detailed notes on Odia grammar rule sets for Sandhi formations and Karaka cases."
+  },
+  {
+    "id": "history-nationalism",
+    "title": "Indian National Movement (1857-1947)",
+    "subject": "HISTORY",
+    "url": "https://docs.google.com/document/d/1_example_history",
+    "description": "Crucial historical timelines, major leaders, and key events of the Indian Freedom Struggle."
+  }
+]

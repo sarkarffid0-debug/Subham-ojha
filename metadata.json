@@ -1,0 +1,6 @@
+{
+  "name": "LEARNEXUS",
+  "description": "A luxurious deep navy and gold study hub with searchable and favoritable study notes, featuring a secure admin portal to manage note links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
